@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akarshika03/Leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/akarshika03/Leetcode/tree/master/0136-single-number) |
 | [1217-relative-sort-array](https://github.com/akarshika03/Leetcode/tree/master/1217-relative-sort-array) |
+| [1603-running-sum-of-1d-array](https://github.com/akarshika03/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 # Hash Table
 |  |
 | ------- |
@@ -25,3 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/akarshika03/Leetcode/tree/master/0136-single-number) |
+# Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/akarshika03/Leetcode/tree/master/1603-running-sum-of-1d-array) |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akarshika03/Leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/akarshika03/Leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akarshika03/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/akarshika03/Leetcode/tree/master/0136-single-number) |
 | [1217-relative-sort-array](https://github.com/akarshika03/Leetcode/tree/master/1217-relative-sort-array) |
 | [1603-running-sum-of-1d-array](https://github.com/akarshika03/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -36,3 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akarshika03/Leetcode/tree/master/0075-sort-colors) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akarshika03/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |

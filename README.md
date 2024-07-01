@@ -41,3 +41,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akarshika03/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/akarshika03/Leetcode/tree/master/1086-divisor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/akarshika03/Leetcode/tree/master/1086-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/akarshika03/Leetcode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/akarshika03/Leetcode/tree/master/1086-divisor-game) |
+<!---LeetCode Topics End-->

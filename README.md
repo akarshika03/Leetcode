@@ -59,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/akarshika03/Leetcode/tree/master/1086-divisor-game) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/akarshika03/Leetcode/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/akarshika03/Leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/akarshika03/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

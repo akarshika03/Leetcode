@@ -46,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/akarshika03/Leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/akarshika03/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1086-divisor-game](https://github.com/akarshika03/Leetcode/tree/master/1086-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/akarshika03/Leetcode/tree/master/0070-climbing-stairs) |
 | [1086-divisor-game](https://github.com/akarshika03/Leetcode/tree/master/1086-divisor-game) |
 ## Brainteaser
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/akarshika03/Leetcode/tree/master/0367-valid-perfect-square) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/akarshika03/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/akarshika03/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1086-divisor-game](https://github.com/akarshika03/Leetcode/tree/master/1086-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/akarshika03/Leetcode/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/akarshika03/Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->

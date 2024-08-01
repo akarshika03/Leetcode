@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/akarshika03/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/akarshika03/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/akarshika03/Leetcode/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/akarshika03/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

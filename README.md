@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/akarshika03/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/akarshika03/Leetcode/tree/master/0217-contains-duplicate) |
+| [2350-find-closest-number-to-zero](https://github.com/akarshika03/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |

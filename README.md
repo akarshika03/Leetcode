@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/akarshika03/Leetcode/tree/master/0242-valid-anagram) |
+| [1894-merge-strings-alternately](https://github.com/akarshika03/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/akarshika03/Leetcode/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/akarshika03/Leetcode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->

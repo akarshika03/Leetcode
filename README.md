@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/akarshika03/Leetcode/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/akarshika03/Leetcode/tree/master/0392-is-subsequence) |
 | [1086-divisor-game](https://github.com/akarshika03/Leetcode/tree/master/1086-divisor-game) |
 ## Brainteaser
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/akarshika03/Leetcode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/akarshika03/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/akarshika03/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -98,5 +100,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/akarshika03/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/akarshika03/Leetcode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
